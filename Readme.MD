@@ -9,7 +9,7 @@
 - [X] GitHub Repositories
 - [X] API References
 - [X] Useful Blogs / Community Links
-- [] Installation Guide
+- [ ] Installation Guide
 ---
 
 ## 🧠 Internal Knowledge
