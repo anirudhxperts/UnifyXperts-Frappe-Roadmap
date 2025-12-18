@@ -4,15 +4,16 @@
 ---
 
 ## 🔗 Resource Links
-- [ ] Official Frappe Framework Docs
-- [ ] ERPNext Documentation
-- [ ] GitHub Repositories
-- [ ] API References
-- [ ] Useful Blogs / Community Links
+- [X] Official Frappe Framework Docs
+- [X] ERPNext Documentation
+- [X] GitHub Repositories
+- [X] API References
+- [X] Useful Blogs / Community Links
+- [] Installation Guide
 ---
 
 ## 🧠 Internal Knowledge
-- [ ] Frappe Architecture Overview
+- [X] Frappe Architecture Overview
 - [ ] Server Scripts vs Client Scripts
 - [ ] Hooks & Events
 - [ ] Background Jobs & Queues
