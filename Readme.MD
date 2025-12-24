@@ -22,7 +22,7 @@
 ---
 
 ## 📝 Assignments
-- [ ] Tasks Link
+- [X] Tasks Link
 ---
 
 ## ✅ Evaluation
