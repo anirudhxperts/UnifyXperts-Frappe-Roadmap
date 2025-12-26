@@ -14,9 +14,9 @@
 
 ## 🧠 Internal Knowledge
 - [X] Frappe Architecture Overview
-- [ ] Server Scripts vs Client Scripts
-- [ ] Hooks & Events
-- [ ] Background Jobs & Queues
+- [X] Server Scripts vs Client Scripts
+- [X] Hooks & Events
+- [X] Background Jobs & Queues
 - [ ] Permissions & Role Management
 - [ ] Print Formats & Reports
 ---
