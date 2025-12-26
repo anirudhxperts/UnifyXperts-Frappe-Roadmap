@@ -18,7 +18,7 @@
 - [X] Hooks & Events
 - [X] Background Jobs & Queues
 - [ ] Permissions & Role Management
-- [ ] Print Formats & Reports
+- [X] Print Formats & Reports
 ---
 
 ## 📝 Assignments
