@@ -9,7 +9,7 @@
 - [X] GitHub Repositories
 - [X] API References
 - [X] Useful Blogs / Community Links
-- [ ] Installation Guide
+- [X] Installation Guide
 ---
 
 ## 🧠 Internal Knowledge
@@ -17,7 +17,7 @@
 - [X] Server Scripts vs Client Scripts
 - [X] Hooks & Events
 - [X] Background Jobs & Queues
-- [ ] Permissions & Role Management
+- [X] Permissions & Role Management
 - [X] Print Formats & Reports
 ---
 
