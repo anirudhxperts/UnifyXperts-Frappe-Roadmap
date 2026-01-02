@@ -33,7 +33,7 @@
 ---
 
 ## 🔌 Integration
-- [ ] REST API Basics in Frappe
+- [X] REST API Basics in Frappe
 - [ ] External API Integration Pattern
 - [ ] Webhooks (Inbound & Outbound)
 - [ ] OAuth & Token-Based Authentication
